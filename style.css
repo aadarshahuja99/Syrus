@@ -1,0 +1,28 @@
+footer{
+    text-align: center;
+    background-color:gray;
+    margin-bottom: auto;
+    color: white
+}
+h2{
+    text-align: center;
+}
+.pq{
+    text-align: center;
+}
+menupopup > menuitem, menupopup > menu { max-width: none; }
+header{
+    background-color: black;
+    color:white;
+    font-size: 1.8em
+}
+.carousel-indicators{
+    margin-bottom: 10%
+}
+.tipu{
+    background-image: url(background.jpeg);
+    
+}
+header{
+    font-family: 'Anton', sans-serif;
+}
